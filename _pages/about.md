@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Siwen Wei, a first-year graduate student at Fudan University. I received my Bachelor of Engineering degree in Intelligent Science and Technology from Hohai University (Nanjing). My main research interests include clinical natural language processing, medical image analysis, large language models, and medical data mining.
+I am Siwen Wei, a first-year graduate student at Fudan University. I received my Bachelor of Engineering degree in Intelligent Science and Technology from Hohai University (Nanjing). My main research interests include clinical natural language processing, medical image analysis, large language models, and medical data mining.I want to do interesting research. It would be even better if it can help human development.
 
 I like traveling, and I have traveled abroad many times alone. Music is also my hobby. I can sing and play several instruments. I also like photography.
 
