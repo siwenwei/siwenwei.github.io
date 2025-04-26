@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* M.S. in Biomedical Engineering, Fudan University, 2024-
+* B.S. in Intelligent Science and Technology, Hohai University, 2020-2024
 
 Work experience
 ======
@@ -34,12 +34,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* English proficiency: CET-6, score: 561
+* Programming Language
+  * Python
+  * Matlab
+  * Java
+  * ...
+
 
 Publications
 ======
@@ -53,12 +54,5 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
