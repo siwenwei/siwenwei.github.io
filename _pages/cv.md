@@ -17,15 +17,13 @@ Education
 
 Work experience
 ======
-* Feb. 2024-Aug. 2024: Company intern
-  * ArcSoft
+* Feb. 2024-Aug. 2024: ArcSoft - Company intern
   * Organized and filtered test data to ensure quality and consistency.
   * Wrote Python scripts to automate data preprocessing and improve processing efficiency.
   * Developed Python applications to automatically extract key frames from videos using libraries such as OpenCV.
   
 
-* Oct. 2022 - Jun. 2024: One of the founders, member of the first generation hardware team
-  * Virtual Vision Studio
+* Oct. 2022 - Jun. 2024: Virtual Vision Studio - One of the founders, member of the first generation hardware team
   * The main source of business for the studio is virtual anchors. The main technical groups include the engine group, hardware group and art group.
   * I was an initial member of the hardware team of this studio, responsible for making a full-body motion capture device based on an inertial sensor unit. The device was currently in preliminary use.
 
