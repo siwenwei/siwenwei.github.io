@@ -23,10 +23,10 @@ repository               : "https://siwenwei.github.io/"
 author:
   # Biographic information
   avatar           : "profile_mine.png"
-  name             : "Your Sidebar Name"
+  name             : "Siwen Wei"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "First-year master student at Fudan University.Research interests include clinical natural language processing, medical image analysis, large language models, and medical data mining."
+  location         : "Shanghai"
   employer         : "Fudan University"
   uri              : https://siwenwei.github.io
   email            : "siwenwei5266@gmail.com" 
