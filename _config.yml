@@ -28,14 +28,14 @@ author:
   bio              : "First-year master student at Fudan University."
   location         : "Shanghai"
   employer         : "Fudan University"
-  uri              : https://siwenwei.github.io
+  # uri              : https://siwenwei.github.io
   email            : "siwenwei5266@gmail.com" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.hk/citations?user=w3egDtgAAAAJ&hl=zh-CN"
   # impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   #semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # researchgate     : # URL
