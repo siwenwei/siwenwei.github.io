@@ -13,7 +13,7 @@ title                    : "Siwen Wei / personal page"
 title_separator          : "-"
 name                     : &name "Siwen Wei"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://siwenwei.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Fudan University"
-  uri              : https://siwenwei.github.io/
+  uri              : https://siwenwei.github.io
   email            : "siwenwei5266@gmail.com" 
 
   # Academic websites
