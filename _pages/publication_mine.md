@@ -10,7 +10,7 @@ author_profile: true
 # Selected Work
 
 <details open markdown=1>
-<summary><span style="font-weight: bold; font-size: 1.2em;">&nbsp;Cardiovascular </span></summary>
+<summary><span style="font-weight: bold; font-size: 1.2em;">&nbsp;Clinical NLP </span></summary>
 <table>
 	<tr>
 	    <td width="40%"><img  src="{{ base_path }}/images/CHIP2023.png"></td>
