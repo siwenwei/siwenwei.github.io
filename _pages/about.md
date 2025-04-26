@@ -15,6 +15,7 @@ News
 ======
 A paper of MICCAI2025 is under review. I am a co-author of this article.
 
-My first paper as the first author was accepted by [CHIP2023](https://link.springer.com/chapter/10.1007/978-981-99-9864-7_18#Sec5) and reported at the conference. I would like to thank my supervisor Yuan Chi for his guidance and support.
+The first paper I published as the first author was accepted by [CHIP2023](https://link.springer.com/chapter/10.1007/978-981-99-9864-7_18#Sec5) and reported at the conference. I would like to thank my supervisor Yuan Chi for his guidance and support.
+
 
 
