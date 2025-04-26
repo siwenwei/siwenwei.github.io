@@ -13,7 +13,7 @@ author_profile: true
 <summary><span style="font-weight: bold; font-size: 1.2em;">&nbsp;Cardiovascular </span></summary>
 <table>
 	<tr>
-	    <td width="40%"><img  src="{{ base_path }}/images/papers/2023_CHIP.png"></td>
+	    <td width="40%"><img  src="{{ base_path }}/images/图片1.png"></td>
 	    <td width="60%"><p markdown="1">**An Unsupervised Clinical Acronym Disambiguation Method Based on Pretrained Language Model**<br>
        <u>Siwen Wei</u>, Chi Yuan, Zixuan Li, Huaiyu Wang <br>
       *Health Information Processing, 2024* <br>
