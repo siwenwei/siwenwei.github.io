@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Siwen Wei / personal page"
+title                    : "Siwen Wei"
 title_separator          : "-"
 name                     : &name "Siwen Wei"
 description              : &description "First-year master student at Fudan University."
